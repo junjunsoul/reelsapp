@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "image-tools": "^1.4.0",
+    "uview-ui": "^2.0.36",
+    "vuex-persistedstate": "^4.1.0",
+    "wxml2canvas": "^1.0.1"
+  }
+}
